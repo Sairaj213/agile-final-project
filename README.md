@@ -635,36 +635,9 @@ Contributions are welcome! Here's how you can help:
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 📜  LICENSE                                                               -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 📜 License
-
-This project is open source and available for educational purposes.
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-<!-- 🙏  ACKNOWLEDGMENTS                                                       -->
-<!-- ═══════════════════════════════════════════════════════════════════════════ -->
-
-## 🙏 Acknowledgments
-
-<table>
-<tr>
-<td>📚</td>
-<td><b>IBM DevOps and Software Engineering Professional Certificate</b></td>
-</tr>
-<tr>
-<td>🎓</td>
-<td><b>Coursera — Agile Development and Scrum</b></td>
-</tr>
-<tr>
-<td>🛠️</td>
-<td><b>GitHub</b> — for Issues, Projects, Milestones & Labels</td>
-</tr>
-</table>
 
 <br/>
 
